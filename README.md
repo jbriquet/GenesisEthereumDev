@@ -6,4 +6,6 @@ anyone that run the contract. This information will allow to build a database,
 that scientists can use for interpreting world-wide electrical consumption,
 for people connected on the Ethereum block-chain. Each users receive a part
 of the fee collected when scientist want to access the database.
-- DAPP proposal : greenEther , saveTheWorld .. 
+- DAPP proposal : greenEther, saveTheWorld, eTourism
+- DAPP : eTourism : shows a GIF that make you discover a new location every day
+ start with carribean islands 
